@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu tortor maximus, sagittis risus nec, rutrum sapien. Ut accumsan urna ornare enim porttitor, vitae mattis ex congue. Aenean eu risus eu sapien sodales iaculis. Donec at nibh a nibh ultrices tempus vitae non nisi. Duis odio mauris, imperdiet ac malesuada nec, rhoncus vitae eros. Nulla vestibulum sem a lorem interdum feugiat. Maecenas congue magna eget dui sagittis condimentum. In ac tincidunt metus, a congue erat. Ut luctus magna eget quam convallis, tempor luctus purus tempor. Phasellus tincidunt lacus at sapien lacinia, vitae pharetra urna ultrices. Donec sed risus sed arcu placerat dignissim. Mauris consequat et arcu congue congue. Fusce volutpat nisl odio, a ultrices ipsum scelerisque eu. Vivamus euismod urna a molestie accumsan. Curabitur orci ligula, commodo vitae semper eu, condimentum sed eros. Aliquam consequat sapien non dui tincidunt, laoreet porttitor nunc aliquet. Proin eros dui, hendrerit sit amet lacinia vel, malesuada id nisl. Aliquam et tincidunt augue. Nulla mi urna, cursus aliquet malesuada eu, fermentum sed mauris.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Fusce id risus nisi. Proin molestie arcu sollicitudin varius fringilla. Quisque congue in quam id placerat. In semper ante in orci pharetra, quis condimentum turpis scelerisque. Sed accumsan egestas turpis, id volutpat turpis porta eu. Nullam quis fermentum ex. Cras ornare eget metus at porta. Proin vehicula velit sit amet lacus gravida, ac pretium mauris eleifend. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in mollis nibh. Aliquam erat volutpat. Sed risus magna, pellentesque ut luctus id, euismod eget neque. Vestibulum cursus mauris eros, in vehicula lorem pretium ac. Nullam in rhoncus urna. Morbi auctor diam eget sagittis rutrum. Fusce vel tempor mauris. Donec euismod arcu non eros dignissim molestie. Duis at sagittis ex. Nam ut feugiat odio. Aliquam volutpat enim eu eros porttitor, quis porttitor libero imperdiet.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips!",
+      "body": "Etiam quis nisi vulputate, blandit dui quis, commodo massa. Fusce scelerisque venenatis risus id commodo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque tempor sem at ante gravida hendrerit. Duis iaculis sed purus non dictum. Nulla ut vehicula turpis. Maecenas et leo velit. Vivamus pulvinar justo ut nisl efficitur tristique. Quisque euismod dui felis, sed cursus nulla porttitor condimentum. Quisque laoreet nibh sed turpis placerat, ac molestie sem imperdiet. Integer arcu velit, pellentesque vel ex eget, feugiat faucibus enim. Etiam aliquam posuere elit, sed pharetra neque sagittis eget. Aliquam nec cursus erat, sit amet semper velit. Aenean vitae laoreet odio. Donec suscipit cursus dolor, nec porttitor ligula pretium at. Nunc at nulla eu lectus maximus suscipit quis tristique est.",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
